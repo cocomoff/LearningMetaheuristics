@@ -1,0 +1,7 @@
+name = "LearningMetaheuristics"
+uuid = "ee58cc17-c0e8-4909-bae9-f00bfc929624"
+authors = ["KO(Rpc) <keisuke.otaki.jp@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
